@@ -46,8 +46,7 @@ namespace turtle {
     }
     
     /**
-     * Moves the turtle for the given amount of pixels
-     * @param steps number of steps, eg: 1
+     * Clear Screen
      */
     //% blockId=clear block="clear"
     //% weight=99 blockGap=8
