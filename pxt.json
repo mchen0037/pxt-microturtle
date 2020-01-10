@@ -1,10 +1,10 @@
 {
-    "name": "microturtle",
+    "name": "mightyturtle",
     "version": "0.0.9",
     "dependencies": {
         "core": "*"
     },
-    "description": "A LOGO-like turtle library",
+    "description": "bleh",
     "files": [
         "turtle.ts",
         "README.md"
