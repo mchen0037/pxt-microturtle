@@ -44,13 +44,13 @@ namespace turtle {
         // slow down
         basic.pause(_delay);
     }
-    
+
     /**
      * Clear Screen
      */
     //% blockId=clear block="clear"
     //% weight=99 blockGap=8
-    export function clear() : void {
+    export function clear(): void {
         _img = images.createImage(`
             . . . . .
             . . . . .
@@ -59,7 +59,7 @@ namespace turtle {
             . . . . .
             `)
         basic.clearScreen();
-    }    
+    }
 
     /**
      * Moves the turtle for the given amount of pixels
